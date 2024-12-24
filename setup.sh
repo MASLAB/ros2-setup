@@ -8,6 +8,7 @@ if ! [[ "$TEAM_NUMBER" =~ ^[0-9]+$ ]]
     then
         echo "Please enter integer for team number"
 fi
+TEAM_NUMBER=$((TEAM_NUMBER))
 
 # Constants to be updated
 ROS_VERSION=jazzy
