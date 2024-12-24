@@ -52,6 +52,8 @@ MASLAB staffs have prepared a script to automatically install and setup your Ubu
     ![team-numner](image/team-number.png)  
 > [!WARNING]
 > Please enter your team **NUMBER** only. (ex: 1, 2, 12)  
-4. Once installation is finished, try playing with ROS 2 with the FizzBuzz tutorial at: https://github.com/MASLAB/ROS2_FizzBuzz  
+4. Once installation is finished, try playing with ROS 2 with the FizzBuzz tutorial at: https://github.com/MASLAB/ROS2_FizzBuzz
+
+For manual installation and setup, refer to ROS 2 online documentation at: https://docs.ros.org/en/jazzy/   
 
 
