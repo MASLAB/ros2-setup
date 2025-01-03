@@ -12,7 +12,6 @@ TEAM_NUMBER=$((TEAM_NUMBER))
 
 # Constants to be updated
 ROS_VERSION=jazzy
-YEAR=2025
 
 # Update and upgrade
 sudo apt install -y software-properties-common
