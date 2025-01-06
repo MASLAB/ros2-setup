@@ -21,6 +21,9 @@ sudo apt update && sudo apt upgrade -y
 # Install build-essential
 sudo apt install -y build-essential
 
+# install Git
+sudo apt install -y git
+
 # Setup ROS 2 and dependencies
 sudo apt install -y curl
 sudo curl -sSL https://raw.githubusercontent.com/ros/rosdistro/master/ros.key -o /usr/share/keyrings/ros-archive-keyring.gpg
