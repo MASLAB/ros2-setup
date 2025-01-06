@@ -77,7 +77,7 @@ MASLAB staffs have prepared a script to automatically install and setup your Ubu
 2. Run the following commands:
     ```shell
     wget https://raw.githubusercontent.com/MASLAB/ros2-setup/refs/heads/main/setup.sh
-    ./setup.sh
+    chmod +x ./setup.sh && ./setup.sh
     ```
 3. Enter your team's number and press `Enter` to start installation progress. Enter password if necessary.
     ![team-numner](image/team-number.png)  
