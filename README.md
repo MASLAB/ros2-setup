@@ -13,7 +13,9 @@ If you are not already using Ubuntu 24.04, using virtual machine software to ins
 2. Once both are downloaded, run the VirtualBox platform package installation file and follow through the software installation system to install Virtualbox.
 3. Once VirtualBox installation is finished, open the VirtualBox Extension Pack to install extension pack.
 #### Download and install Ubuntu 24.04 on VirtualBox
-1. Download Ubuntu 24.04 installation .iso file at: https://ubuntu.com/download/desktop
+1. Download Ubuntu 24.04 installation .iso file. 
+    * For Intel / AMD processor (Windows and older generation Mac): https://ubuntu.com/download/desktop
+    * For Mac with M processors: https://cdimage.ubuntu.com/noble/daily-live/current/noble-desktop-amd64.iso 
 > [!IMPORTANT]
 > Download Ubuntu 24.04.x LTS. **NOT** Ubuntu 24.10
 2. After downloading Ubuntu install file, follow this video to install Ubuntu on VirtualBox: https://www.youtube.com/watch?v=yw9c991-4KE 
