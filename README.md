@@ -18,6 +18,11 @@ If you are not already using Ubuntu 24.04, using virtual machine software to ins
 > Recommended settings:
 > * 30Gb storage
 > * At least 4Gb memory and at most half your computer's memory
+
+> [!NOTE]
+> The installation may show this error. Just ignore it and wait it out.
+> ![nstall error](install_error.png)
+
 #### Install VirtualBox Guest Additions
 VirtualBox Guest Additions enables drag-and-drop from your computer to virtual Ubuntu and better graphic supports. To install:
 1. Log in and follow through the welcome screen.  
