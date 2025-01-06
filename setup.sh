@@ -12,7 +12,6 @@ TEAM_NUMBER=$((TEAM_NUMBER))
 
 # Constants to be updated
 ROS_VERSION=jazzy
-YEAR=2025
 
 # Update and upgrade
 sudo apt install -y software-properties-common
@@ -21,6 +20,9 @@ sudo apt update && sudo apt upgrade -y
 
 # Install build-essential
 sudo apt install -y build-essential
+
+# install Git
+sudo apt install -y git
 
 # Setup ROS 2 and dependencies
 sudo apt install -y curl

@@ -1,5 +1,8 @@
-# ros2-setup
-Setup procedure for local ROS2 installation
+# ROS2 Local Setup Guide
+Setup procedure for local ROS2 installation.
+
+## Introduction
+Robotic Operating System 2 (ROS2) is a software package for developing sofware systems for advance robots. MASLAB relies on ROS2 to facilitate writing custom robotic applications and using other publicly available ROS2 software packages in rapid robot development. ROS2 runs natively on Ubuntu Linux 24.04. For more information about ROS2, please visit: https://www.ros.org/ to learn more!
 ## Install Ubuntu 24.04
 ### Virtual machine (Recommended)
 If you are not already using Ubuntu 24.04, using virtual machine software to install and run Ubuntu on your computer is recommended for flexibility and ease of installation. Below is the instruction to set up Ubuntu on using VirtualBox.
