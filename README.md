@@ -24,7 +24,7 @@ If you are not already using Ubuntu 24.04, using virtual machine software to ins
 
 > [!NOTE]
 > The installation may show this error. Just ignore it and wait it out.
-> ![nstall error](install_error.png)
+> ![install error](image/install_error.png)
 
 #### Install VirtualBox Guest Additions
 VirtualBox Guest Additions enables drag-and-drop from your computer to virtual Ubuntu and better graphic supports. To install:
