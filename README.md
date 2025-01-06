@@ -63,8 +63,11 @@ For better experience in virtual Ubuntu, make the following changes to the virtu
 4. Select `System` and make sure processors count is at least 2 with 100% execution cap.  
     ![system](image/system.png)
 
-5. Select `Display` and make sure video memory is maxed out at 128MB and 3D Acceleration is enabled in Extended Features.  
+5. Select `Display` and make sure video memory is maxed out at 128MB. If you are using Windows or older generation Mac, enable 3D Acceleration in Extended Features. 
     ![display](image/display.png)
+
+> [!WARNING]
+> 3D acceleration may not work for all devices. If Ubuntu does not boot after enabling 3D acceleration, disable it and try again.
 
 6. Select `USB` and make sure USB Controller is enabled and set to USB 3.0.  
     ![usb](image/usb.png)
